@@ -139,6 +139,3 @@ dmypy.json
 
 # virtual env
 venv/
-
-#data files
-*.csv
